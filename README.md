@@ -39,7 +39,7 @@ create_clf_plots(model, X_train, X_val, y_train, y_val, model_name='Model', y_pr
 pip install -r requirements.txt
 ```
 
-**Optional: Create a virtual environment:**(eg. [`miniconda`](https://www.anaconda.com/docs/getting-started/miniconda/install))
+**(Optional) Create a virtual environment**(eg. [`miniconda`](https://www.anaconda.com/docs/getting-started/miniconda/install))
 
 ---
 ## Contributing
