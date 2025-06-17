@@ -46,7 +46,6 @@ pip install -r requirements.txt
 
 Feel free to add new debugging utilities or improve existing ones. Each tool should be self-contained and well-documented.
 
----
 ## License
 This project is licensed under the MIT License.
 
