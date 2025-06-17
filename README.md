@@ -49,3 +49,6 @@ Feel free to add new debugging utilities or improve existing ones. Each tool sho
 ---
 ## License
 This project is licensed under the MIT License.
+
+---
+⭐ If you found this project helpful, please consider giving it a star!
