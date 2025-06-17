@@ -22,7 +22,7 @@ from my_debuggers import nan_detector, create_clf_plots
 ```python
 nan_detector = nan_detector(df)
 # detects NaN values in a DataFrame
-`df: pandas.DataFrame`
+# df is a pandas DataFrame
 ```
 
 # Generate classification plots
