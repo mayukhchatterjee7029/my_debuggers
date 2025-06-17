@@ -3,13 +3,13 @@
 
 A collection of custom debugging utilities for machine learning projects to help identify and visualize common issues during model development.
 
-### Tools
+## Tools
 
-## 🔍 NaN Detector
+### 🔍 NaN Detector
 Utility for detecting NaN values in pandas DataFrames.
 - NaN value detection
 
-## 📊 Classifier Plots
+### 📊 Classifier Plots
 Visualization utilities for classification model debugging.
 - Confusion matrix plots
 - Learning curve plots
@@ -18,14 +18,14 @@ Visualization utilities for classification model debugging.
 ```python
 from my_debuggers import nan_detector, create_clf_plots
 ```
-# Detect NaN values
+## Detect NaN values
 ```python
 nan_detector = nan_detector(df)
 # detects NaN values in a DataFrame
 # df is a pandas DataFrame
 ```
 
-# Generate classification plots
+## Generate classification plots
 ```python
 create_clf_plots(model, X_train, X_val, y_train, y_val, model_name='Model', y_pred=None)
 # Creates confusion matrix and learning curve plots for classification models
