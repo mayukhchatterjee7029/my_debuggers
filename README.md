@@ -13,6 +13,8 @@ Utility for detecting NaN values in pandas DataFrames.
 Visualization utilities for classification model debugging.
 - Confusion matrix plots
 - Learning curve plots
+
+---
 ## Quick Start
 
 ```python
